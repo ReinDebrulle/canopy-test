@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ReinDebrulle.github.io/canopy-test
+
+# Sitemaps
+Sitemap: https://ReinDebrulle.github.io/canopy-test/sitemap.xml
